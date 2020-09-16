@@ -27,3 +27,4 @@ Feel free to contribute to this repo, please checkout the PRs guide.
 |SL. |Name |Type |
 |--- |--- |--- |
 |1 |[Introduction](./Intoduction/) | |
+|2 |[Array](./Array/) | Easy |
