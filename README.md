@@ -28,3 +28,6 @@ Feel free to contribute to this repo, please checkout the PRs guide.
 |--- |--- |--- |
 |1 |[Introduction](./Intoduction/) | |
 |2 |[Array](./Array/) | Easy |
+
+## LICENSE
+[MIT](./LICENSE)
