@@ -1,7 +1,5 @@
 #include <cstdio>
 
-using namespace std;
-
 int main(){
     // Init array with size of 10
     int arr[10];
