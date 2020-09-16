@@ -11,7 +11,15 @@ Each data structure consist of docs and source code with popular programming lan
 Feel free to contribute to this repo, please checkout the PRs guide.
 
 ## PRs Guide
+
 - Update **.gitignore** incase your lanagauge have any dump file.
     Ex: C++ has compiled file a.out then add '*.out' to gitignore.
-- As each data structure folder contain saperated folders for different programming lanagauge(s), check if you put source to correct folder.
-    Incase folder don't exist for your programming lanagauge then create seperate folder.
+
+- As each data structure folder contain saperated folders for different programming lanagauge(s), check if you put source to correct folder. Incase folder don't exist for your programming lanagauge then create seperate folder with name of programming lanagauge.
+
+- Code file name should be, {data-structure-name}-{github's-username}(-{number} if any).{file-extension}.
+    Ex: array-coderj001.cpp, linklist-coderj001-1.py
+
+- Correct or update documentation if needed.
+
+## Content
